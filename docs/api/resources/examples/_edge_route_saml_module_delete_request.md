@@ -7,5 +7,5 @@ curl \
 -X DELETE \
 -H "Authorization: Bearer {API_KEY}" \
 -H "Ngrok-Version: 2" \
-https://api.ngrok.com/edges/https/edghts_30si9Ne21LS1Z36NEmGGJlIzunG/routes/edghtsrt_30si9NzwjoPTQtyfv0clgCMdrk2/saml
+https://api.ngrok.com/edges/https/edghts_30xFUFzUWPbKHKe700XEZjjmE1Q/routes/edghtsrt_30xFUF7LyC1ziut7z7GTtGocHfv/saml
 ```
